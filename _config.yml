@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 header {
   display: none;
 }
+title: no
